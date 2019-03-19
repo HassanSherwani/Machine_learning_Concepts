@@ -14,3 +14,11 @@ From basic to advanced level of concepts with codes
 - Big data analysis
 - Time series analysis in Python
 - Gradient Boosting
+
+# Modules
+
+pandas <br>
+numpy <br>
+matplotlib <br>
+seaborn <br>
+sklearn <br>
